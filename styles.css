@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(29, 28, 34);
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.game {
+    transform: scale(0.7);
+    /* scale: 0.5; */
+    /* width: 50px;
+    height: 50px; */
+}
+
+.icons {
+    color: white;
+    position: absolute;
+    display: flex;
+}
